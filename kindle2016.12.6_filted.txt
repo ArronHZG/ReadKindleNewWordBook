@@ -25,8 +25,6 @@ annoyingly
 apparently
 appreciate
 apprenticeship
-apprenticeship
-approach
 approach
 arrogant
 as
@@ -89,7 +87,6 @@ confess
 confide
 consequence
 consist
-consist
 construction
 consume
 consuming
@@ -125,7 +122,6 @@ deserts
 desperate
 dialogue
 dictate
-dictate
 direction
 director
 disarrange
@@ -145,9 +141,7 @@ drew
 drinking
 effectively
 emerge
-emerge
 emphasize
-encounter
 encounter
 endure
 ensure
@@ -162,7 +156,6 @@ establish
 eternal
 etiquette
 excessively
-exclaim
 exclaim
 exhale
 expect
@@ -189,7 +182,6 @@ fragrance
 fragrant
 frustration
 furnish
-gaze
 gaze
 giddy
 glass
@@ -256,15 +248,12 @@ masterpiece
 material
 meditation
 mental
-mental
 migration
 miraculous
 mirror
 misery
 misfortune
 misunderstanding
-mobile
-mobile
 mobile
 moderator
 modestly
@@ -333,14 +322,12 @@ pretend
 private
 profession
 promote
-promote
 proof
 proper
 properly
 propose
 provide
 provincial
-pull
 pull
 pursue
 queer
@@ -384,8 +371,6 @@ rumple
 rush
 salesperson
 salute
-salute
-salute
 sank
 scarcity
 scarf
@@ -418,7 +403,6 @@ stately
 steal
 steel
 step
-step
 stimulate
 stir
 strain
@@ -436,12 +420,10 @@ tale
 tame
 target
 task
-task
 tedious
 temporarily
 tend
 testimony
-the
 the
 they
 threaten

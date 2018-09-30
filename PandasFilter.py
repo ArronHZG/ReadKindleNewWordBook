@@ -59,9 +59,12 @@ def filt(path_name):
     new_data = new_data[new_data[1].isin([True])]
     # 排序
     print(new_data.sort_values(by = 0 , inplace=True))
+
+    #去重
+    new_data.drop_duplicates(0, keep='first', inplace=True)
     new_data[0].to_csv(pathAndName+'_filted.'+postfix, encoding='utf-8', index=False)
 
-# ---------------------
+# ---------------------11
 #  本文来自 火羽 的CSDN 博客 ，全文地址请点击：https://blog.csdn.net/rwangnqian/article/details/79000134?utm_source=copy
 
 if __name__ == '__main__':
